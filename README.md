@@ -3,7 +3,7 @@
 ![computer-typing](https://user-images.githubusercontent.com/81798537/157266008-fd6fd1bf-df82-41ec-b2cb-c18d510f8f76.gif)
 <h1>Ｈｅｌｌｏ Ｗｏｒｌｄ！👩🏻‍💻</>
   <p>
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayeon&count_bg=%23CFCFCF&title_bg=%23000000&icon=react.svg&icon_color=%23FFFFFF&title=YEON&edge_flat=false"/></a>
 
 ![hayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayeon&theme=material-palenight&show_icons=true)<p>
   <h3>🥨Ｓｔａｃｋ🥨</h3>
