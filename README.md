@@ -5,7 +5,6 @@
   <p>
   
 
-![hayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayeon&theme=material-palenight&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hayun3906)](https://solved.ac/hayun3906/)<p>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayeon&count_bg=%23999AD7&title_bg=%23999AD7&icon=react.svg&icon_color=%23EEEEEEEE&title=HAYEON&edge_flat=false)](https://hits.seeyoufarm.com)
   
