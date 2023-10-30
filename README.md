@@ -1,30 +1,34 @@
 <div align="center">
 
-![computer-typing](https://user-images.githubusercontent.com/81798537/157266008-fd6fd1bf-df82-41ec-b2cb-c18d510f8f76.gif)
-<h1>Ｈｅｌｌｏ Ｗｏｒｌｄ！👩🏻‍💻</>
-  <p>
-  
+  <img src="https://user-images.githubusercontent.com/81798537/157266008-fd6fd1bf-df82-41ec-b2cb-c18d510f8f76.gif" alt="computer typing">
+  <h1>Hello World! 👩🏻‍💻</h1>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hayun3906)](https://solved.ac/hayun3906/)<p>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayeon&count_bg=%23999AD7&title_bg=%23999AD7&icon=react.svg&icon_color=%23EEEEEEEE&title=HAYEON&edge_flat=false)](https://hits.seeyoufarm.com)
+  <a href="https://solved.ac/hayun3906/" target="_blank">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hayun3906" alt="Solved.ac Profile">
+  </a>
+
+  <a href="https://hits.seeyoufarm.com" target="_blank"> <p>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayeon&count_bg=%23999AD7&title_bg=%23999AD7&icon=react.svg&icon_color=%23EEEEEEEE&title=HAYEON&edge_flat=false" alt="Hits">
+  </a>
+
+  <h2>🔧 Tech Stack 🔧</h2>
+
+  <img src="https://img.shields.io/badge/typescript-0769AD?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
+  <img src="https://img.shields.io/badge/npm-BE3536?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react">
+  <img src="https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react native">
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=Expo&logoColor=white" alt="Expo">
+  <img src="https://img.shields.io/badge/sass-C56093?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
+  <img src="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled components">
   
-  <h3>🔧Ｓｔａｃｋ🔧</h3>
- <img src="https://img.shields.io/badge/typescript-0769AD?style=for-the-badge&logo=typescript&logoColor=white">
- <img src="https://img.shields.io/badge/npm-BE3536?style=for-the-badge&logo=npm&logoColor=white">
- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-   <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <p>
-  <img src="https://img.shields.io/badge/Expo-000000??style=for-the-badge&logo=Expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sass-C56093?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <h2>🏆 Awards 🏆</h2>
   
-  
-  
-  <h3>🥇PRICE🥇</h3><P>
-  <h4> 제 9회 소프트웨어 개발보안 경진대회 대상 행정안전부 장관상</h4>
-    <h4>2022 서울시 IOT 공공도시데이터 활용 해커톤 본선진출</h4>
+  <h3> 제 9회 소프트웨어 개발보안 경진대회 대상 행정안전부 장관상</h3>
+  <h3> 2023년 장애인 분야 해커톤 대회 개발분야 대상 보건복지부장관상</h3>
+  <h3> 제 10회 소프트웨어 개발보안 경진대회 장려상 한국정보호학회장상</h3>
+  <h3> 2022 서울시 IOT 공공도시데이터 활용 해커톤 본선진출</h3>
+  <h3> 제 11회 K-해커톤 본선진출</h3>
+
 </div>
-
-
-
