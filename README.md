@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react">
   <img src="https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react native">
   <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=Expo&logoColor=white" alt="Expo">
+  <p></p>
   <img src="https://img.shields.io/badge/sass-C56093?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
@@ -25,10 +26,10 @@
   
   <h2>🏆 Awards 🏆</h2>
   
-  <h3> 제 9회 소프트웨어 개발보안 경진대회 대상 행정안전부 장관상</h3>
-  <h3> 2023년 장애인 분야 해커톤 대회 개발분야 대상 보건복지부장관상</h3>
-  <h3> 제 10회 소프트웨어 개발보안 경진대회 장려상 한국정보호학회장상</h3>
-  <h3> 2022 서울시 IOT 공공도시데이터 활용 해커톤 본선진출</h3>
-  <h3> 제 11회 K-해커톤 본선진출</h3>
-
+<p style="font-size: 1.5em; font-weight: bold;">제 9회 소프트웨어 개발보안 경진대회 대상 행정안전부 장관상</p>
+  <p style="font-size: 1.5em; font-weight: bold;">2023년 장애인 분야 해커톤 대회 개발분야 대상 보건복지부 장관상</p>
+  <p style="font-size: 1.5em; font-weight: bold;">제 10회 소프트웨어 개발보안 경진대회 장려상 한국정보호학회장상</p>
+  <p style="font-size: 1.5em; font-weight: bold;">2022 서울시 IOT 공공도시데이터 활용 해커톤 본선진출</p>
+  <p style="font-size: 1.5em; font-weight: bold;">제 11회 K-해커톤 본선진출</p>
+  
 </div>
