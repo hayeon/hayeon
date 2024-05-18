@@ -11,18 +11,7 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayeon&count_bg=%23999AD7&title_bg=%23999AD7&icon=react.svg&icon_color=%23EEEEEEEE&title=HAYEON&edge_flat=false" alt="Hits">
   </a>
 
-  <h2>🔧 Tech Stack 🔧</h2>
 
-  <img src="https://img.shields.io/badge/typescript-0769AD?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
-  <img src="https://img.shields.io/badge/npm-BE3536?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react">
-  <img src="https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react native">
-  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=Expo&logoColor=white" alt="Expo">
-  <p></p>
-  <img src="https://img.shields.io/badge/sass-C56093?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
-  <img src="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled components">
   
   <h2>🏆 Awards 🏆</h2>
   
