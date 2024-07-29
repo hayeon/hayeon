@@ -18,5 +18,5 @@
   <p style="font-size: 1.5em; font-weight: bold;">제 10회 소프트웨어 개발보안 경진대회 장려상 한국정보호학회장상</p>
     <p style="font-size: 1.5em; font-weight: bold;">2023년 한이음 ICT멘토링 공모전 장려상 ICT기업 대표이사상 </p>
   <p style="font-size: 1.5em; font-weight: bold;">제6회 전국대학생 ICT 창의융합 캡스톤디자인경진대회 동상   </p>
-
+  <p style="font-size: 1.5em; font-weight: bold;">2024년도 한국컴퓨터정보학회 하계학술대회 우수 논문상  </p>
 </div>
