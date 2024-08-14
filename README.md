@@ -10,7 +10,7 @@
 <div>
 
 
-   <img align ="center" width="40" src="https://github.com/user-attachments/assets/d58dc93f-b3dd-4fb2-9502-afafd723666d" />
+   <img align ="center" width="80" src="https://github.com/user-attachments/assets/d58dc93f-b3dd-4fb2-9502-afafd723666d" />
   <h2>🏆 Awards 🏆</h2> 
   
 - 제 9회 소프트웨어 개발보안 경진대회 대상 행정안전부 장관상</p>
