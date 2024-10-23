@@ -1,4 +1,4 @@
-
+<img src="https://github.com/user-attachments/assets/07131c06-7488-4120-83cc-5e8578a4eb53"/>
 
 <div>
   <img align="right" width="40%" src="https://github.com/user-attachments/assets/2448c498-84be-40ac-9181-6c50d314e0c4">
@@ -18,10 +18,6 @@
 <!--End Intro-->
 
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hayeon&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="hayeon" style="padding-right:20px;" />
-</p>
 
 ---
 
@@ -60,24 +56,6 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/skkuBigdata">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=hayeon&repo=Awesome-Dev
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/hayeon">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=hayeon&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
 </table>
 <br />
 
@@ -89,5 +67,3 @@
 
 ---
 
- <!--Banner-->
- <img src="https://github.com/user-attachments/assets/b639f26e-c1d1-4965-8abb-12f8a4fb9cd2"/>
