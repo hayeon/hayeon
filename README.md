@@ -59,6 +59,7 @@
   </tr>
 </table>
 <br />
+<img align="right" width="10%" src="https://github.com/user-attachments/assets/dd0413f6-c198-4079-b0af-6d3fcc8687b3">
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
