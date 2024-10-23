@@ -5,7 +5,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://github.com/user-attachments/assets/66018d4f-9ff2-44af-b2ae-2dd69480d64d" width="30"/> Hellow World!
+# <img src="https://github.com/user-attachments/assets/66018d4f-9ff2-44af-b2ae-2dd69480d64d" width="30"/> Hello World!
 *AI Researcher/ Programmer*
 <br /> 
 
