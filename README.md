@@ -15,7 +15,7 @@
 - 🚀 Always eager to learn, I believe every day is an opportunity for growth.
 - 📚 Currently, I’m studying various topics and working on research and development projects.
 - ✍ I also write technical blogs. You can visit my blog at [Tistory](https://kill-xxx.tistory.com/).
--  💻 Visit my [CV](https://ggosunnae.notion.site/hayeon-yang-12629d6b1adb8086842bef9470ba5f55?pvs=4/) for more details about me.
+-  💻 Visit my [CV](https://ggosunnae.notion.site/Hayeon-Yang-12629d6b1adb8086842bef9470ba5f55/) for more details about me.
 <!--End Intro-->
 
 
