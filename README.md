@@ -61,11 +61,13 @@
 <br />
 <img align="right" width="10%" src="https://github.com/user-attachments/assets/dd0413f6-c198-4079-b0af-6d3fcc8687b3">
 
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">📈 Baek Joon📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hayeon&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+  <a href="https://solved.ac/hayun3906/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hayun3906" alt="Solved.ac Profile" />
+  </a>
 </div>
+
 
 ---
 
