@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/07131c06-7488-4120-83cc-5e8578a4eb53"/>
+
 
 <div>
   <img align="right" width="40%" src="https://github.com/user-attachments/assets/2448c498-84be-40ac-9181-6c50d314e0c4">
@@ -10,7 +10,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I'm student majoring in AI and a Web Developer passionate about Python, React.js, </p>
+<p align="left">I'm a student majoring in AI and a Web Developer passionate about Python, React.js, </p>
 
 - 🚀 Always eager to learn, I believe every day is an opportunity for growth.
 - 📚 Currently, I’m studying various topics and working on research and development projects.
